@@ -1,0 +1,20 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "cSpell.words": [
+    "errorlogger",
+    "Kankrej",
+    "middlewares",
+    "Nellore",
+    "Sahiwal",
+    "Tharparkar"
+  ],
+  // "workbench.colorCustomizations": {
+  //   "activityBar.background": "#0B0C9A",
+  //   "titleBar.activeBackground": "#0F11D7",
+  //   "titleBar.activeForeground": "#FDFDFF"
+  // }
+}
